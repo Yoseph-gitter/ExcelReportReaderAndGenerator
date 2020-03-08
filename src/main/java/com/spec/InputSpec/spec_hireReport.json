@@ -1,0 +1,31 @@
+{
+  "startedDateAndTime": {
+    "dataType": "Date",
+    "categories": [
+      ""
+    ],
+    "index": "0",
+    "name": "StartedDateAndTime"
+  },
+  "requestType": {
+    "dataType": "String",
+    "categories": [
+      "Import Hire Employee",
+      "Import Contract Contingent Worker"
+    ],
+    "index": "3",
+    "name": "Request_Type"
+  },
+  "totalProcessingTime": {
+    "dataType": "Time",
+    "categories": [
+      ""
+    ],
+    "index": "5",
+    "name": "Total_Processing_Time"
+  }
+}
+
+
+
+

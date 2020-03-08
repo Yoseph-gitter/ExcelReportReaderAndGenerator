@@ -1,0 +1,33 @@
+{
+  "StartedDateAndTime": {
+    "dataType": "Date",
+    "categories": [],
+    "index": "0",
+    "name": "StartedDateAndTime"
+  },
+  "RequestType": {
+    "dataType": "String",
+    "categories": [
+    ],
+    "index": "2",
+    "name": "requestType"
+  },
+  "Request" : {
+    "dataType": "String",
+    "categories": [],
+    "index": "3",
+    "name": "request"
+  },
+  "TotalProcessingTime": {
+    "dataType": "Time",
+    "categories": [],
+    "index": "6",
+    "name": "totalProcessingTime"
+  },
+  "Status": {
+    "dataType": "String",
+    "categories": [],
+    "index": "5",
+    "name": "status"
+  }
+}

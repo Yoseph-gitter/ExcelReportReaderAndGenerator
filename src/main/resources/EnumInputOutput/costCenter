@@ -1,0 +1,2325 @@
+﻿1000 WW Operations Execution
+1001 Global Customer Fulfillment
+1002 Emerging Markets
+1003 WW Ops HR
+1004 Prime Now FC - Fixed
+1005 Prime Now FC - VAR
+1006 Disabled WW Operations Execution Engineering
+1007 WW Ops Real Estate
+1008 WW Prime Now Ops
+1009 Prime Now Retail Fixed
+1010 EU Ops Management
+1011 Prime Now 3P Corp
+1012 Central Ops - VAR
+1013 Last Mile Prod DSP
+1014 Physical Stores Mendel Ops
+1015 Mendel Store Fixed
+1017 GSF Hubs Fixed
+1020 Japan Operations
+1021 China Operations
+1022 CN External Fulfillment Corp Ops - Tech
+1023 ECCF Central Team
+1024 CN Global Selling Corp Ops - Tech
+1025 AGL Field Fixed
+1030 Fabric.com Fulfillment - VAR
+1031 GSF Hubs - VAR
+1040 India Operations
+1041 ATS Sort Center Field Fixed
+1042 Line Haul Field - Fix
+1043 WFM Corp Fixed
+1044 Last Mile Prod - AmFlex
+1050 CBP - Brand Registry - VAR
+1051 Amazon Flex - VAR
+1052 Loss Prevention Field
+1053 Compliance Field
+1054 WHS Field
+1055 Last Mile Field DSP - fix
+1056 ATS Gen Corp - Fix
+1057 Line Haul Field TOM - Fix
+1058 GSF Shared Services - Core
+1060 GSF Faster Than Same Day
+1061 AMXL Delivery Station Field - Fixed
+1062 AMXL Delivery Station Field - VAR
+1063 AMXL Last Mile Field - VAR
+1064 AMXL Delivery Station Regional Management
+1065 Line Haul Field - TOM - VAR
+1067 AMXL Field - Fixed
+1068 CBP - Perfect Order Experience - VAR
+1069 Sub Same Day - VAR
+1071 CBP - Selling Partner Abuse - VAR
+1072 CBP - Seller Trust & Loyalty - VAR
+1080 Customer Packaging Experience (CPEX)
+1090 Local Corporate Operation Finance
+1092 AMZL - Delivery Station (1092) - VAR
+1093 AMZL - Last Mile Delivery - Fixed
+1100 Ops Management (1997 history)
+1101 Mendel Ops Fixed
+1105 Inventory
+1106 Brilliance Fulfillment - Fixed
+1111 Bookstore Operations - VAR
+1112 Physical Stores Tech Ops 1 - VAR
+1113 Amazon Go - Stores VAR
+1114 Physical Stores Tech - CXQO - VAR
+1115 Mendel FC - VAR
+1116 Amazon Go - Stores Regional
+1118 HMR Ops (fka 7018) - VAR
+1120 Sustainability CC
+1121 Dangerous Goods CC
+1122 Sustainability Field
+1123 CPEX 1123
+1126 Fresh - Delivery Station - VAR
+1145 AGL - VAR
+1146 Flex Regional Management
+1147 GSF Field Fix Central Ops
+1149 Last Mile TOC Fixed
+1150 AMZL & Transportation Admin
+1151 Delivery Tech - VAR
+1152 Amazon Locker - Pickup Points - Corporate
+1153 AMZL - HR
+1154 Delivery Experience - Mgmt
+1157 AMZL - Alternate Space
+1158 Amazon Global Logistics
+1159 Amazon Last Mile Transportation
+1160 Transportation Execution
+1161 Last Mile Products & Services
+1162 GSF HR
+1163 Middle Mile Trans Optimization
+1164 FC Automation
+1165 Global WHS
+1166 PPDX Field Fixed
+1167 WFM Field Fixed
+1168 Delivery Station Regional Management
+1169 Prime Now - Last Mile - VAR
+1170 AMZL - Regional Management
+1171 AMZL - Last Mile Delivery - VAR
+1172 AMZL - Delivery Station - FIX
+1173 Sort Center Field - Fix
+1174 AMZL - Corporate
+1175 AMZL - Linehaul - VAR
+1176 AMZL - Global Strategy
+1177 Last Mile Technology DSP
+1178 Sort Center Corp - Fix
+1179 Line Haul Corp - Fix
+1180 Global Delivery Services
+1181 Sort Center Field - Seasonal - VAR
+1182 Sort Center Field - VAR
+1183 Sort Center Field - Reg Mgmt - Fix
+1184 AMZL - TOC Support - VAR
+1185 Line Haul Field - Trailer - VAR
+1186 Line Haul Field - VAR
+1187 Kindle Direct Publishing - CS (fka 5187)
+1188 Restricted Products
+1189 Operations Engineering
+1190 North American Fulfillment
+1191 Fulfillment Center Systems Management
+1192 GSF Shared Services
+1193 S3C Shared Services
+1194 WW Amazon Fresh Ops
+1195 Global Security Operations
+1196 WW Amazon Customer Excellence Systems (ACES)
+1197 WW Product Compliance
+1198 Global Trade Services
+1199 WW Food Safety and Compliance
+1200 Fulfillment Center
+1201 AMXL Corporate Operations
+1202 Delivery Operations - VAR
+1203 Amazon Fresh Fulfillment - VAR
+1204 Amazon Fresh Fulfillment - Fixed
+1205 Tech Services Ingestion - VAR
+1206 Brilliance Fulfillment - VAR
+1207 Internal Service Fulfillment - VAR
+1208 Non-Local FC Support - Fixed
+1209 Non-Local FC Support - VAR
+1210 FC Support - Local ACES
+1211 Amazon Temp Staffing - VAR
+1212 Amazon Temp Staffing
+1213 Amazon Pantry Fulfillment - VAR
+1214 Amazon Pantry Fulfillment - Fixed
+1215 Amazon Fresh Field Regional Management
+1216 Vendor Flex - VAR
+1217 Trans & Supply Chain - Yard Control - VAR
+1218 Loss Prevention
+1219 Workplace Health & Safety
+1220 Locker & Pickup & On My Way
+1221 FC - Regional Management HR
+1222 FC - Regional Management Finance
+1223 FC - Regional Procurement
+1224 Ops HR Management Recruiting
+1225 FC - HR Operations Support
+1226 FC - HR Staffing Engine
+1227 Local Trans & Supply Chain
+1228 FC Launch
+1229 Ops HR - ER&EE
+1230 Ops Tech IT
+1231 Ops Tech IT - VAR
+1232 FC - Regional Quality
+1233 OPS HR - VAR
+1234 Locker+ Field - VAR
+1235 Locker+ Field - Fixed
+1236 OPS Recruiting Hourly
+1237 Sort Center Field - HR - Fix
+1238 FC - Regional Other
+1241 WW Pantry Operations
+1242 Locker+ Operations
+1243 BuyVIP Fulfillment CC
+1244 Home Monitoring Fixed FC
+1245 Amazon Metro Corp Fixed
+1246 Singapore Operations
+1247 Zappos Fulfillment - VAR
+1248 Merch by Amazon Fulfillment - VAR
+1249 Woot Fulfillment - VAR
+1250 OPS HR - Regional Management
+1251 Ops HR - Temp Staffing
+1252 Ops HR - Staff Recruiting
+1253 Ops HR - Management Recruiting
+1254 Ops HR - Learning & Leadership Development
+1255 Amazon Global
+1256 FC Tours
+1257 AMZL Field Support
+1258 CN Global Store
+1259 Amazon Core Exports
+1260 FBA Program Support - VAR
+1261 Westland Fulfillment - VAR
+1262 WFM Field - VAR
+1263 Kraken Fixed
+1264 SSD Field - VAR
+1266 Amazon Expansion (World)
+1267 WW RE Land
+1268 Expansion Other
+1270 AR International Programs
+1290 Fulfillment Center - Fixed
+1296 Book Depo FC - Fixed
+1298 Distribution Center - Co-Located HC - VAR
+1299 Fulfillment Center - VAR
+1300 Operations - Tech Services
+1301 Amzn Shipping - Experience Tech
+1302 Operations Technology Support - VAR
+1303 Amzn Shipping - Product and Tech
+1306 Payments Business Ops (fka 7306)
+1380 FBA Business (fka 5380)
+1381 FBA Business (fka 5381) - VAR
+1400 Ad Services - VAR
+1414 Audible - Customer Service
+1415 Zappos CS - VAR
+1500 CS Operations Management
+1501 CS Operations - VAR
+1502 CS Operations - Alt Language 2 - VAR
+1503 CS Operations Management - Alt Language 2
+1504 Alt Language 3 - VAR
+1505 CS Management
+1506 CS Operations Management - Alt Language 3
+1507 CS Operations - Alt Language 3 - VAR
+1508 Retail Fixed Ops
+1509 CS Operations - Alt Language 4 - VAR
+1510 SPS - Facilities and Badge Access - VAR
+1511 CS CreateSpace - VAR
+1512 SPS - Project Work - VAR
+1513 SPS - NA Vendor Support - VAR
+1514 SPS - Other Selling Partner Support - VAR
+1515 WW CS - SMS - VAR
+1516 Selling Partner Risk
+1517 JV II, CS India
+1518 Bad Debt Corporate Investigations - VAR
+1519 CS - Spons. Ads. Contact Mgt - VAR
+1520 CS Ops Support - VAR
+1521 CS Corporate Account Specialty Group - VAR
+1522 CS Operations - Alt Lang 5 - VAR
+1523 Buyer Abuse - VAR
+1524 Shopbop CS - VAR
+1525 CS - Phone Sales Ops - VAR
+1526 CS - Phone Sales Os Virtual - VAR
+1527 Goodreads - VAR
+1528 CS - AGS - Fixed
+1529 CS - AGS - VAR
+1530 CS HR
+1531 CS Finance
+1532 Brand Protection Fixed
+1535 CS Tech Mgmt
+1540 CS Fixed Digital Ops
+1541 CS Home Monitoring Fixed
+1542 eero Variable Operations - VAR
+1543 eero Variable Marketing - VAR
+1545 CS Social Media 1 - VAR
+1546 CS Social Media 2 - VAR
+1547 CS Social Media 3 - VAR
+1548 CS Social Media 4 - VAR
+1549 Comixology CS - VAR
+1550 Digital Fixed Ops
+1551 CS AMZL 1 - VAR
+1552 CS AMZL 1 - Fixed
+1553 CS AMZL 2 - VAR
+1554 CS AMZL 2 - Fixed
+1555 CS AMZL 3 - VAR
+1556 CS AMZL 3 - Fixed
+1557 CS LMTOC 1 - Fixed
+1558 CS LMTOC 1 - VAR
+1559 CS LMTOC 2 - Fixed
+1560 CS Digital Ops - Alt Lang 2 - Fixed
+1561 Audible - CS - VAR
+1562 CS Operations - Audible.com direct - VAR
+1563 CS Operations - Alt Language 5 - VAR
+1564 CS Operations fixed - Alt Language 5
+1565 CS Operations - Alt Language 6 - VAR
+1566 CS Operations fixed - Alt Language 6
+1567 Woot CS - VAR
+1568 Woot CS - Fixed
+1570 CS Operations - Kindle (D2) indirect - VAR
+1571 AbeBooks CS & Seller Support - VAR
+1572 Sizmek Customer Support - Fixed
+1573 Sizmek Customer Support - VAR
+1577 Book Depo CS - VAR
+1578 Disabled AWS Marketplace - VAR
+1579 AWS Customer Service - VAR
+1580 Digital Var Ops - VAR
+1581 CS Operations Mgmt WFH
+1582 CS Ops - WFH - VAR
+1583 CS Kindle Support Ops - WFH - VAR
+1585 CS Fixed Digital Corp
+1590 CS Operations - Kindle (D2) direct - VAR
+1591 CS Tech Support Ops Alt Language 2 - VAR
+1592 CS Tech Support Ops Alt Language 3 - VAR
+1593 Selling Partner Support Operations Fixed
+1595 Falcon Tech
+1596 Selling Partner Risk Operations Fixed
+1597 SPS - Non Ratio Variable Support - VAR
+1598 Enterprise TAM - VAR
+1599 Selling Partner Support Business Fixed
+1603 Central ISS
+1604 SCOT - Fulfillment Optimization
+1620 Identity Fixed
+1621 Seller Support - VAT Support
+1631 Seller and Brand Support - CA - Production - VAR
+1632 Seller and Brand Support - UK - Production - VAR
+1633 Seller and Brand Support - DE - Production - VAR
+1634 Seller and Brand Support - FR - Production - VAR
+1635 Seller and Brand Support - ES - Production - VAR
+1636 Seller and Brand Support - IT - Production - VAR
+1637 Seller and Brand Support - JP - Production - VAR
+1638 Seller and Brand Support - IN - Production - VAR
+1639 Seller and Brand Support - Emerging OUs - Production - VAR
+1641 Vendor Support - CA - Production - VAR
+1642 Vendor Support - UK - Production - VAR
+1643 Vendor Support - DE - Production - VAR
+1644 Vendor Support - FR - Production - VAR
+1645 Vendor Support - ES - Production - VAR
+1646 Vendor Support - IT - Production - VAR
+1647 Vendor Support - JP - Production - VAR
+1649 Vendor Support - Emerging OUs - Production - VAR
+1700 Publisher Affairs
+1701 GSF HR Field Fixed
+1710 Regional RME
+1711 NACF RME - fix
+1712 NACF RME - VAR
+1716 Payment Products - Non-Tech
+1717 Gift Certificates - Corporate (fka 5717)
+1719 Ops HR - WFS AGWS Fixed
+1721 Ops Construction
+1722 Ops HR - Central Field
+1723 Ops HR - Career Choice & Tech
+1724 Ops HR - PeopleInsight Corp
+1726 Ops HR - Zabka Fixed
+1777 Customer Brand Protection - VAR
+1850 WFM Retail Store
+1851 WFM Non-Retail Distribution
+1852 WFM Non-Retail Production
+1853 WFM Regional Store Support
+1854 WFM Global Store Support - Perishables
+1855 WFM Global Store Support - Culinary/Hospitality
+1856 WFM Global Store Support - Non-Perishables
+1857 WFM Fulfillment - VAR
+1862 HMR Ops - Fixed
+1878 Profile
+1900 Amazon Air Field - VAR
+1901 Amazon Air Corp - Fix
+1902 Line Haul Field - Tractor - VAR
+1903 Line Haul Field - Hostler - VAR
+1904 Amazon Air Field - Fix
+1906 Amazon Air Field Reg Mgmt - Fix
+1910 Quidsi - Fulfillment CC
+1916 MENA Team (Souq)
+1917 Souq Corp Ops
+1918 Souq Marketing - Fixed
+1950 Available for use
+1951 Consumer Payments
+2000 After Market Services (AMS)
+2001 Co-op Management
+2002 Consumer Training & Learning
+2003 MENA Marketplace - VAR
+2010 Delivery Experience
+2020 Buying Out of Print Sourcing
+2100 POD & MOD (fka 5100)
+2140 External Fulfillment
+2150 SCOT -Inventory Planning and Control
+2151 Automated Inventory Management
+2157 Supply Chain Execution
+2160 Returns
+2200 FBA PM Tech
+2202 CTPS G&A
+2210 Disabled Control Buying - Toys
+2212 Instock Management - Health & Personal Care
+2213 Instock Management - Beauty & Grooming
+2215 Picard Fulfillment - Fixed
+2218 Instock Management - Food
+2219 Instock Management - Baby
+2220 Entertainment
+2221 Control Buying - VG
+2222 Disabled Control Buying - Shoes
+2223 CE Project Team
+2230 Control Buying - Apparel
+2238 Control Buying - Tools
+2239 Sports - Outdoor Recreational Team
+2240 Control Buying - CE
+2242 Wireless/Mobile Project Team
+2243 Control Buying - Jewelry
+2244 PC/Office Project Team
+2245 Wine & Spirits
+2246 Hardlines ACES
+2401 Information Security Payments
+2500 Books/Magazines
+2501 DISABLED - Trade Books
+2502 Textbooks
+2503 Amazon Student
+2504 Amazon Hub - Locker+
+2505 Media Shopping XP
+2506 Registration and Core Services
+2507 Claims - VAR
+2508 Know Your Customer - VAR
+2509 Perfect Order Experience - VAR
+2510 Merchandise Hardlines
+2511 Amazon Pay - Risk Investigations - VAR
+2512 AWS VAR Fraud (fka 5512) - VAR
+2513 Denied Party Screening - VAR
+2514 Suspicious Activity Monitoring - VAR
+2515 Seller Identity Verification (SIV) - VAR
+2516 Reported Abuse - VAR
+2517 Abuse Prevention - VAR
+2518 ALC Risk Investigations (fka 5510) - VAR
+2519 Chargebacks Investigations - VAR
+2520 Music - Content and Vendor Mgmt
+2521 Kindle Vendor Funded Services 2521
+2522 Buying Ops
+2523 Control Buying - Home
+2524 Catalog services
+2525 Retail Operations & Initiatives
+2526 Seller Trust and Loyalty - Fixed
+2549 Operations and Supply Chain
+2550 Quality and Lean
+2551 Planning & OSS
+2552 Global Manufacturing and Operations Engineering
+2553 Supply Chain and Compliance
+2554 Product Operations
+2555 Reverse Logistics
+2556 AME/NPI
+2558 Vesta Operations
+2559 Sustaining Operations
+2560 Accessories Operations
+2561 Amazon Devices - Tablet, AUCC
+2562 Amazon Devices - Direct Sales (Non-Tech)
+2563 Amazon Devices - Cross Product
+2564 Device Economics
+2567 Devices Global Logistics
+2568 Devices Pre-Owned Business
+2698 Home Innovation Team
+2699 Home/Kitchen/Pets Project Team
+2700 WW Operations
+2878 T&C - Softlines Tech Initiatives - fix
+3000 Marketing
+3022 Merch by Amazon Fixed
+3100 Business Development
+3800 COP - PCon - VAR
+3802 Bad Debt - AWS - VAR
+3807 Bad Debt - Prime Subscr. - VAR
+3810 Amzn Payment Products - VAR
+3815 Zappos COP - VAR
+3850 Book Depo COP & Bad Debt
+3878 Fit - fix
+4000 AWS WWCO Commercial Field Sales - VAR
+4001 AWS WWCO ProServe: GSP, PracDev, WW Programs - VAR
+4002 AWS WWCO Global Training Delivery -VAR
+4003 AWS WWCO Solutions Architects - VAR
+4004 AWS WWCO Business Development - VAR
+4005 AWS WWCO Geo + Strategic Account - VAR
+4006 AWS Public Sector Sales - Fixed
+4007 AWS WWCO Partner Shared Service - VAR
+4008 AWS International Product Management
+4009 Disabled AWS Sales and BD Developer Resources
+4010 AWS Elemental Customer Success - Variable - VAR
+4011 International Expansion Payments
+4012 Social Shopping - VAR
+4013 Consumer Payments - VAR
+4014 AWS WWCO Geo Commercial Field Sales - VAR
+4015 AWS WWCO Strategic Account Commercial Field Sales - VAR
+4016 AWS WWCO Special Service Commercial Field Sales - VAR
+4017 AWS WWCO Special Service Solution Architects - VAR
+4018 AWS WWCO Global Account Solution Architects - VAR
+4019 AWS WWCO GSI Direct and Partner - VAR
+4020 AWS WWCO FSI Solution Architects - VAR
+4021 AWS WWCO Global Account Commercial Field Sales - VAR
+4022 AWS WWCO FSI Commercial Field Sales - VAR
+4023 AWS WWCO Geo Sales Other Support - VAR
+4024 AWS WWCO Sales Other Support SCE - VAR
+4025 AWS WWCO Sales Other Support - VAR
+4026 AWS BTS Compensation and Invoicing - VAR
+4027 AWS BTS Systems - VAR
+4028 AWS WWCO Enterprise LO- Partnerships - VAR
+4029 AWS WWCO Telco & Other Commercial Field Sales - VAR
+4030 AWS WWCO Geo Business Development - VAR
+4031 Zappos Marketing - VAR
+4032 AWS WWCO Geo Inside Sales - VAR
+4033 AWS Enterprise Customer Service - VAR
+4034 AWS Enterprise Customer Service (DO NOT USE) - VAR
+4035 AWS GCR Field Sales - VAR
+4036 AWS GCR Inside Sales - VAR
+4037 AWS GCR Demand Gen - VAR
+4038 AWS GCR Enterprise Sales - VAR
+4039 AWS GCR Gl. Account Sales - VAR
+4040 Amazon Restaurants - VAR
+4041 Traffic - Marketing Channels - VAR
+4042 AWS WWCO Geo Demand Generation - VAR
+4043 AWS GCR Sales Ops Support - VAR
+4044 AWS GCR Sol. Architecture - VAR
+4045 AWS GCR Sp. Sales Sol. Architecture - VAR
+4046 AWS GCR Partner Services Solution Architecture - VAR
+4047 AWS GCR Business Dev. - VAR
+4048 AWS GCR Business Development Platform - VAR
+4049 AWS GCR Partner Program (4049) - VAR
+4050 AWS WWCO GCR ProServe - VAR
+4051 AWS WWCO GCR Training & Certification - VAR
+4052 One CE Marketing
+4053 AWS WWCO FSI Solution Delivery - VAR
+4054 AWS WWCO Global Account Solution Delivery - VAR
+4055 AWS WWCO Strategic Account Solution Delivery - VAR
+4056 AWS WWCO Geo Solution Delivery - VAR
+4057 AWS WWCO Geo Solution Architects - VAR
+4058 AWS WWCO Strategic Account Solution Architects - VAR
+4059 AWS WWCO Telco & Other Solution Architects - VAR
+4060 AWS WWCO FSI Business Development - VAR
+4061 AWS WWCO Global Account Business Development - VAR
+4062 AWS WWCO Strategic Account Business Development - VAR
+4063 AWS WWCO Telco & Other Business Development - VAR
+4064 AWS WWCO Special Service Business Development - VAR
+4065 AWS WWCO FSI Sales Other Support - VAR
+4066 AWS WWCO Global Account Sales Other Support - VAR
+4067 AWS WWCO Strategic Account Sales Other Support - VAR
+4068 AWS WWCO Telco & Other Sales Other Support - VAR
+4069 AWS WWCO Special Service Sales Other Support - VAR
+4070 AWS WWCO Geo Sales Other Support - SCE - VAR
+4071 AWS WWCO ProServe: Global Financial Services - VAR
+4072 AWS WWCO ProServe: Global Accounts - VAR
+4073 AWS WWCO ProServe: Strategic Accounts - VAR
+4074 AWS WWCO ProServe: Telco & Other Segments - VAR
+4075 AWS WWCO ProServe: Shared Delivery Teams - VAR
+4076 AWS T&C: Strategy & Operations
+4077 AWS T&C: Marketing
+4078 AWS WWCO T&C Learning Services and Support - VAR
+4079 AWS WWCO T&C Partner Programs - VAR
+4080 AWS WWCO T&C Educational Programs - VAR
+4081 AWS WWCO T&C Curriculum and Certification - VAR
+4082 AWS WWCO FSI Partner - VAR
+4083 AWS WWCO Telco Partner - VAR
+4084 AWS WWCO Global Account Partner - VAR
+4085 AWS WWCO Elemental Sales Field Sales - VAR
+4086 AWS WWCO ProServe: Ent Segment/Country Teams - VAR
+4087 Home Marketing Team
+4088 ISS Emerging Countries - VAR
+4089 AWS Custom Billing Solutions - VAR
+4090 Brand Program and VSP
+4091 New Seller Success
+4092 Category Business Development
+4093 Sales Ops, Data Engineering & Sciences
+4094 Brand Program and VSP - VAR
+4095 New Seller Success - VAR
+4096 Category Business Development - VAR
+4097 IN 3P Support
+4098 IN Consumer Amzn Home Services - VAR
+4099 IN Private Brands
+4101 IN Payments
+4102 ISS - Emerging - VAR
+4103 AWS T&C: Learning Service Development
+4105 Autom. Marketing - Associates - VAR
+4106 AWS MP MCO - VAR
+4110 Biz Dev - MP
+4120 Marketing - MP
+4121 Public Relations - Consumer
+4122 Public Relations - Corp Comm
+4123 Public Relations - Ops
+4124 Public Relations - Devices
+4125 Public Relations - Books
+4126 Public Relations - AWS
+4127 Public Relations - DMVS
+4128 Public Relations - Physical Stores
+4129 Public Relations - Amazon in the Community (AITC)
+4130 Merch Dev - MP
+4131 Public Relations - Company Events
+4132 Zappos - Mass & Brand - VAR
+4136 Analyst Relations - AWS
+4140 Amazon Tickets - VAR
+4141 AWS T&C Curriculum
+4200 Business Development 4200
+4201 IN Marketing Variable
+4210 Affiliate Marketing-Associates
+4211 JP Marketing
+4220 Book Depo Marketing
+4250 Merchant Development
+4300 Audible Search Traffic Mktg
+4301 Marketing Mass & Brand - VAR
+4302 LaunchPad CC
+4303 Digital Mass & Brand Marketing - VAR
+4305 Marketing Communication
+4307 Amazon Music Marketing - VAR
+4308 Amazon Local Commerce Marketing - VAR
+4309 Digital Video Marketing - VAR
+4310 IMDb Marketing - Fixed
+4312 Subsidiary Marketing & Sales - VAR
+4313 Amzn Pub Svcs&Supply IQ - VAR
+4314 Audible - Marketing Fixed
+4315 Mktg - Promotions
+4317 Home Monitoring Fixed Marketing
+4318 Shopbop Marketing & Content
+4319 Zappos Marketing - Fixed
+4320 DISABLED - Customer Relationship Marketing
+4321 Amazon Home Services - VAR
+4322 Amazon Experts - VAR
+4323 AbeBooks Seller Acc't Mgmt
+4325 Segment Marketing
+4326 Sizmek Sales & Marketing - Fixed
+4327 Sizmek Sales & Marketing - VAR
+4328 Brilliance Marketing - fix
+4329 Channel Sales - Softlines - VAR
+4330 Strategic Communication
+4331 Channels Sales - VAR
+4332 DISABLED - Enterprise Sales
+4333 Small Business Solutions Sales
+4334 Other Corporate Development
+4335 Mktg - Corp Business Development
+4336 Advertising Sales Mgmt - Fixed
+4337 Advertising Product - Web
+4338 Advertising Field Sales - VAR
+4339 Advertising Operations - Field AM - VAR
+4340 Mktg - Market Intelligence
+4341 Localization - VAR
+4342 Merchant Sales Support - VAR
+4343 Intl Seller Growth - VAR
+4344 Brilliance Mktg - VAR
+4345 Amazon Marketplace Professional Services - VAR
+4346 Ad Marketing - Fixed
+4347 CCS Scaled Service Advertising - VAR
+4348 CCS Advertising Product/Program Management - VAR
+4349 Advertising Custom Program - VAR
+4350 Mktg - Customer Experience
+4351 Moderation, Automation and Relevance Systems - VAR
+4352 IPT Fixed
+4353 Goodreads Sales & Marketing - VAR
+4354 Woot Marketing - Fixed
+4356 ISS - Paid Servicss - VAR
+4360 Product Retail Marketing
+4361 BR - 3P Seller Support
+4380 Amazon Pay - Product/Ops
+4385 Amazon Pay Marketing
+4388 CN Search Traffic Marketing
+4390 AbeBooks Sales & Marketing
+4395 Alexa Commerce Domain - VAR
+4400 DISABLED - Sports/Toys Project Team
+4401 Picard Marketing - Fixed
+4411 AWS MP CM & SA
+4440 AWS GCR Public Sector Sales - VAR
+4450 XCM
+4451 Dig Tech Mgmt - BD/Mktg
+4455 Data Mining (DISABLED)
+4460 Marketing Measurement
+4461 New Business Innovations - Fixed
+4465 EU Marketing
+4470 XCM #5
+4475 Creative Operations & Production
+4480 LEO Tech
+4485 XCM #8
+4490 XCM #9
+4500 Marketing International
+4501 Buyer Risk Investigations (fka 5501) - VAR
+4502 Buyer Fraud Fixed
+4503 Core Machine Learning
+4506 Customer and Seller Trust - VAR
+4508 Ops HR Fixed Field
+4513 Marketplace Recruitment and Development
+4514 Localization
+4515 Global Channels Sales - VAR
+4516 Global Sales Support
+4517 Channel Sales Support - Softlines
+4600 AWS - Marketing
+4601 AWS Marketing - Variable - VAR
+4602 AWS Elemental Marketing - Variable - VAR
+4626 Intl Seller Growth - Fixed
+4700 GC Discount - VAR
+4800 Softlines Marketing
+4850 WFM Marketing
+4851 WFM Marketing - VAR
+4852 WFM Other - VAR
+4878 Softlines Innovation Projects
+5000 JP Retail Media
+5001 JP Retail CE/K/MA
+5002 JP Retail Life & Leisure
+5003 JP Retail Softlines
+5004 JP Retail Consumables
+5005 JP Retail BizDev
+5006 JP Consumer Inovation (JCI)
+5007 JP Retail G&A
+5008 UK Retail Consumables
+5009 AWS WWCO Sales and BD Developer Resources - Fixed
+5010 US Consumables Selection Team
+5011 UK Retail Entmt Media
+5012 DE Retail G&A
+5013 DE Retail Books
+5014 DE Retail Entain. Media
+5015 DE Retail Hardlines
+5016 EU Retail Mgmt
+5017 DE Retail Consumables
+5018 DE Retail EU BISS
+5019 DE Retail EU Auto
+5020 DE Retail EU Pantry
+5021 DE Retail Marketing & Traffic
+5022 UK Retail Hardlines
+5023 UK Retail G&A
+5024 FR Retail Consumables
+5025 FR Retail Hardlines
+5026 FR Retail Other HL
+5027 FR Retail Media
+5028 Brilliance Content - VAR
+5029 NA Consumer - Selling Partner Recruitment & Development
+5030 IT & ES Retail Consumables
+5031 MENA Marketplace
+5032 UAE Retail
+5033 KSA Retail
+5034 EGY Retail
+5035 MENA Softlines
+5036 Wing Team
+5037 Helpbit Fixed
+5039 IT & ES Retail Media
+5040 IT & ES Retail Hardlines
+5041 EU Expansion
+5042 EU Softlines - Shoes
+5043 EU Softlines - Jewerly
+5044 EU Softlines - Apparel
+5045 EU Softlines - Excellence
+5046 EU Softlines - Marketing
+5048 Zappos Merch/Content
+5049 EU Softlines - Mgmt Dev't & Innovation
+5050 WW Retail Media Management
+5051 ITES Retail Mgmt
+5052 FR Retail Mgmt
+5053 BuyVIP - LUX
+5054 BuyVIP Marketing 5054
+5055 NA Retail Expansion
+5056 Payfort - Fixed
+5057 Device Tech Support - eReader & Tablet
+5058 IN Apparel
+5059 IN Shoes
+5060 Books Management
+5061 IN Media
+5062 IN Wireless
+5063 In Softlines others
+5064 IN Home Entertainment
+5065 IN PC & OP
+5066 IN Toys and PC
+5067 IN Pantry
+5068 IN Core Consumables
+5069 IN Consumables Others
+5076 Books Management - UK
+5080 Private Brands - Intl Est Hardlines
+5081 Private Brands - Intl Est Consumables
+5082 Private Brands - Intl Est Softlines
+5089 Turkey Expansion
+5091 NL Consumer
+5100 POD & MOD
+5101 Alexa Style - VAR
+5103 NA Retail Expansion - Traffic/3P
+5105 SG Retail
+5106 Mexico Retail Hardlines
+5107 Amazon Tickets Fixed
+5108 Mexico Retail Media
+5109 Mexico Retail Softlines
+5110 Global Retail Development
+5111 Author Services CC
+5112 Mexico Retail Consumables
+5113 BR Retail Physical Consumer
+5114 BR Marketplace Physical Consumer
+5115 Retail Planning Group
+5116 Canada Retail Hardlines
+5118 Canada Retail Media
+5120 Int'l Technology Business
+5121 IN Category Management
+5122 International Expansion - India/Junglee
+5123 Brazil Retail and Marketplace
+5124 Javari Tech
+5126 India - JV Corporate
+5127 Retail Wholesale
+5128 Retail Wholesale Tech
+5129 Junglee Tech
+5130 Localization Platform Tech
+5131 CN Retail Tech
+5132 Canada Retail Softlines
+5133 Customer Experience - India
+5134 Customer Shopping Experience - India
+5135 IN Pay Use Cases
+5136 Amazon Retail India - ARIPL
+5137 IN Pay Experience
+5138 Category Management - CE India
+5139 Applied Modeling and Data Science
+5140 Alexa Data Services
+5141 Amazon Devices - Demand Planning
+5142 Special Conversion
+5143 Kindle Design
+5144 Amazon Education (Management)
+5145 Digital Content Mgt
+5146 Alexa Excellence
+5147 FireTV Business & Marketing
+5148 Kindle Public Library Lending
+5149 Canada Retail Consumables
+5150 Selling Partner Services G&A
+5151 SCOT - Forecasting
+5152 Amazon Selection and Catalog Systems
+5153 Automated Profitability Management
+5154 Buying Tools
+5155 Audible - Tech Program Mgnt
+5156 D&A Prod Mgt/Merchandising
+5157 Kindle Wholesale - Mgt
+5158 DV Marketing US
+5159 Video - Content Ops
+5160 Amazon Publishing
+5161 Brilliance Content - Fixed
+5162 Music - Product Mgmt
+5163 Music - Music Store Mgmt
+5164 Amazon Devices Product Mgt
+5165 Digital Management
+5166 Alexa Tech Support
+5167 Device Software & QA - Mgt
+5168 Device TRMS
+5169 Cross Platform Mgt
+5170 Content Demand - Mgt
+5171 Self Publishing
+5172 SGX Product and Program
+5173 Kindle Content Operations
+5174 Amazon Devices - Emerging and Accessories
+5175 Canada Retail Leadership
+5176 Hardware - Mgt
+5177 SW - IoT & Mobile Products
+5178 KDK - Mgt
+5179 DV Prime Video Movies - Business
+5180 DISABLED - Video - Disc on Demand
+5181 Digital Program Management
+5182 Sold by Amazon
+5183 Alexa Experience and Devices
+5184 Content Quality Operations
+5185 SGX Operations
+5186 Publisher Tools to Reader - Ops
+5187 Kindle Direct Publishing - CS
+5188 Content Risk Management
+5189 Kindle Fraud Detection
+5190 Publisher Tools to Reader - Mgt
+5191 Cross DCCS
+5192 Digital Book Store
+5193 FTV - Experience
+5195 Catalog - Ops - VAR
+5196 Content Programs
+5197 Alexa Domains - Smart Home
+5198 Digital Process Management
+5199 Alexa Domains - HHO
+5200 Video - Video Store Mgmt
+5201 Video - Content and Vendor Mgmt
+5202 KC India Test Preparatio
+5203 Content experience and Quality - Mgt
+5204 Kindle Reader - Ops
+5205 Content Vendor Mgt
+5206 Content Sites
+5207 Amazon Restaurants - fix
+5208 KDP Ops
+5209 EU Expansions
+5210 Retail Experience Design
+5211 Customer Experience - Store
+5212 Imaging Operations Fixed
+5213 Home Entertainment
+5214 Category Management - Kitchen
+5215 Jewelry Category
+5216 Category Management - Sports
+5217 Imaging Support - VAR
+5218 Imaging Fixed Studio Costs
+5219 Imaging Studio Costs - VAR
+5220 DAGS Content Test Ops - VAR
+5221 D1 Creative - VAR
+5222 Goodreads - Business (Non-Tech)
+5223 Kindle Reader Platform
+5224 WriteOn
+5225 T&C - Watches Category - fix
+5226 comiXology - Business
+5227 Audible - Business Non-Tech
+5228 Higher Ed - Business
+5229 Higher Ed - Tech
+5230 DCCS FinTech
+5231 SnDBox - Business
+5232 SnDBox
+5233 Periodicals Tech
+5234 Kindle KM-LOC
+5235 Managed Publishing Ops
+5236 T&C - Luggage Category - fix
+5237 Engagement Marketing
+5238 Kindle Author Central Programs
+5239 Kindle Content IN Support
+5240 Kindle Content IN Support Programs
+5241 Selection Contribution Platform
+5242 Kindle Content CN Support Programs
+5243 Westland Publishing CC
+5244 Alexa COPS - Operations - VAR
+5245 Payment Products - Intl Tech
+5246 Special Merchant Interest II
+5247 FTV Content & Advertising
+5248 VAS Platform
+5249 Hardware - Packaging
+5250 Gifts & Ecard
+5251 T&C - Softlines Category Excellence - fix
+5252 KC JP Manga
+5256 Amazon Devices - eReader
+5257 Amazon Devices - US KOR Field Sales
+5258 Amazon Devices - Customer Engagement
+5259 DV Live Events Non-Tech WW
+5260 DV TVOD Non-Tech EU
+5261 DV Personalization Non-Tech WW
+5262 DV SVOD Non-Tech EU
+5263 DV Core Non-Tech EU
+5264 DV Core Non-Tech US
+5265 DV Ad-Supported Channels - Business
+5266 DV Core Non-Tech JP
+5267 DV Catalog Non-Tech WW
+5268 DV Core ROW
+5269 DV Prime Video TV - Business
+5270 DV Prime Video Kids - Business
+5271 DV Live Events Non-Tech US
+5272 Selling Partner Services (SPS) - VAR
+5273 Indie Publishing - Print/POD
+5274 POD Operations
+5275 Amazon Video WW Content Ops - VAR
+5276 Physical Stores Project Mendel
+5279 Project Jadoo - Corp
+5280 DV Channels Non-Tech EU
+5281 DV Channels Non-Tech US
+5282 DV UK Core
+5283 DV Core Non-Tech IN
+5284 DV Core Non-Tech ROW
+5285 DV Biz Dev Non-Tech WW
+5286 DV TVOD Non-Tech US
+5287 DV Channels Non-Tech ROW
+5288 Key for Business - VAR
+5300 Product Management
+5301 Studios Marketing
+5305 Prod Dev - Retail Group
+5310 Retail Program Management
+5315 Media Management
+5320 AbeBooks Dev. & ISM/Ops
+5325 Corporate Accounts
+5334 Self-Service Performance Advertising Fixed
+5345 Alexa Style - Fixed
+5347 DISABLED - Enterprise Operations
+5350 Disabled Browse Operations
+5351 Core Business Initiatives
+5352 DISABLED - Enterprise India Fixed
+5353 WebStore Seller Success
+5354 Enterprise Integration
+5355 Disabled Enterprise Seller Success
+5356 Consumer Purchase Experience (CPX)
+5357 DISABLED - Falcon Business
+5358 DISABLED - Enterprise India - VAR
+5359 Disabled Enterprise Sellers - Fixed
+5360 Disabled WebStore Applications
+5362 Cross Site Editorial
+5363 Creative Intelligence
+5364 Consumer Ordering & Self-Service Systems (DISABLED)
+5365 CMT Systems
+5366 Prime, XCM, LEO Leadership
+5367 WebStore Product
+5368 Hardline Stores
+5370 DISABLED - Webstore Tech IN - Small Bus. Solutions -  VAR
+5371 eCFT Management
+5372 Product Graph
+5375 WebStore Technology
+5378 KC Alexa
+5380 FBA Business
+5381 Disabled FBA Business - VAR
+5382 Amazon Global Selling - Business
+5397 Catalog System Services
+5398 Catalog Support and Operations - VAR
+5399 Classification and Policy Platform
+5400 CMT Ops - Fixed
+5401 Retail Business Services Fixed
+5402 Selection Monitoring
+5404 RBS NIS - VAR
+5405 RBS Defect Reduction - VAR
+5406 RBS Flex Org - VAR
+5407 CMT Ops - VAR
+5408 Compliance Operations - VAR
+5409 Compliance Ops - Management - VAR
+5410 Amazon Pop Up Corporate
+5411 Selling Partner Paid Services
+5412 Vendor Management Services - VAR
+5414 Vendor Success Program - Fixed
+5415 Seller Fees and Profitability
+5416 Seller Central Experience
+5417 Seller Listing Tools Technology
+5418 CV - NA Consumer
+5419 Selling Partner Insights and Engagement
+5420 KC EU Marketplace
+5422 Intl 3P Paid SVS-Fixed
+5425 KC CN Marketplace
+5430 KC BR Marketplace
+5435 KC KU Mgmt
+5500 Transaction Risk Management
+5501 Buyer Risk Investigations - VAR
+5502 TRMS Operations
+5503 Machine Learning for Seller Services
+5504 Amazon Lending Services
+5505 DISABLED - Merchant Risk Mgmt Programs
+5506 Merchant Risk Investigations - VAR
+5507 Claims Investigations - VAR
+5508 TRMS Screening - VAR
+5509 Disabled Product Quality Investigations - VAR
+5510 ALC Risk Investigations - VAR
+5511 EPS - Risk Investigations - VAR
+5512 Disabled AWS Fraud - VAR
+5513 Alexa Commerce Domain - Fixed
+5514 Amazon Pay - Admin
+5515 Amazon Pay - International
+5516 Product Quality Management
+5517 Amazon Pay - VAR
+5518 Risk Investigations Corporate - VAR
+5519 Chargeback Investigators - VAR
+5520 TRMS Compliance
+5521 Buyer Abuse Fixed
+5522 Amazon Devices Vendor Funded Services
+5523 Transparency - VAR
+5524 Amazon Lending Management
+5525 Compliance Business Fixed
+5556 Amazon Devices (EU)
+5557 Amazon Devices (CN)
+5558 Amazon Devices (BR)
+5559 Amazon Devices (JP)
+5560 Kindle Enterprise
+5561 Amazon Devices (AU)
+5565 Softlines Biz Dev
+5578 AWS Marketplace (fka 1578) - VAR
+5585 KC Non-Fiction
+5600 DISABLED - Enterprise Target - VAR
+5601 Amazon Devices (IN)
+5602 KC JP Mgmt
+5603 Other Media Team
+5604 Engineering Excellence & Knowledge Tech
+5605 Software - Physical
+5606 Video Games - Physical
+5607 Category Management - Music
+5608 T&C - Softlines Leadership - fix
+5609 Amazon Photos - Mgmt
+5610 Category Management - Toys
+5611 Category Management - Baby
+5612 Mobile App Experience
+5613 Amazon Photos - VAR
+5614 Gift Certificates (fka 5714) - VAR
+5615 Project FloJo
+5616 Category Management - Beauty & Grooming
+5617 Treasure Truck - VAR
+5618 Selling Partner Interfaces
+5619 Treasure Truck
+5620 Category Management - Health & Beauty
+5621 Category Management - Other Consumables
+5622 Prime Pantry
+5623 Consumables Special Projects
+5624 Treasure Truck Fixed
+5625 Platform Development
+5626 Category Management - Amazon Fresh
+5627 Amazon Photos - Prints
+5628 F3 Design
+5629 International Dabba
+5630 Private Brands - NA Consumables - Direct
+5631 Private Brands - NA Consumables - Scale
+5633 Consumables 3P & Marketing - fix
+5634 Category Management - Food
+5635 Consumables ROI-Operations
+5640 Category Management - Auto
+5645 Project Bond
+5646 Category Management - BISS
+5647 B2B Team
+5648 Amazon Business Sales - VAR
+5649 Amazon Business - Fixed Sales & Marketing
+5650 Shoes Category
+5651 Shoefitr CC
+5652 Amazon Business - Tech
+5653 Amazon Business Intl
+5654 ABI Tech
+5655 Woot Mgmt
+5656 ABI Sales Ops - VAR
+5657 F3 Fulfillment and Pickup
+5658 F3 MINT
+5659 F3 Special Projects
+5660 MyHabit
+5662 Private Brands - NA Softlines
+5663 Apparel Category
+5664 Category Management - Lawn & Garden
+5665 Softlines Product Imaging - VAR
+5666 Shopbop Buying & Planning
+5667 F3 vendor services - VAR
+5668 Category Management - Home
+5669 Gift Registry
+5670 Site Merchandising - Tools
+5671 Project Rhapsody
+5672 Shopbop Content & Product Activation - VAR
+5674 Category Management - Tools
+5675 Softlines Product Imaging - Fixed
+5676 Category Management - Pets
+5677 Total CE CC
+5678 Site Merchandising - CE
+5679 Other Hardlines CC
+5682 Category Management - CE
+5688 Category Management - Wireless
+5690 DAGS Selection & Dev Relations
+5691 DAGS Competitive Gaming
+5692 Alexa Skills Business Development
+5693 Blueprints/CX
+5694 Category Management - PC
+5695 Body Labs
+5696 Hardlines Customer Experience
+5697 Alexa Games
+5698 ABI Sales - VAR
+5699 ABI Sales - Fixed
+5700 Prod Dev Mgmt - MP
+5701 Partner Support and Solutions Tech Fixed
+5703 Intelligent Cloud Control
+5704 eCS Management (5704)
+5705 Amazon Services Admin
+5706 Channels Support
+5707 IN Marketplace Business
+5708 Localization & Translation Services
+5709 CXT Operations
+5710 Translation Services and Products
+5711 Amazon Register
+5712 Payment Acceptance & Experience
+5713 Gift Certificates - Consumer
+5714 Gift Certificates - VAR
+5715 Production Outlet
+5716 Global Credit
+5717 Disabled Gift Certificates - Corporate
+5718 Affiliate Marketing
+5719 AB B2B Marketplace - VAR
+5720 ABI B2B Marketplace - Fixed
+5730 Periodicals
+5740 Mass Vendor Recruitment (MVR)
+5745 EU Mass Account Management - VAR
+5760 Selling Partner Developer Services
+5761 B2B Marketplace - Fixed
+5762 Renewed - Fixed
+5770 New Businesses - VAR
+5771 B2B Marketplace - VAR
+5773 AWS WWCO BD/Specialized Sales - Fixed
+5774 AWS WWCO Commercial Sales - Fixed
+5775 Mexico Team
+5777 Seller Vetting - VAR
+5790 Disabled Kindle Field Sales Reps
+5791 Automated Advertising-Dynamic Ads
+5792 Prime International
+5798 Amzn Pub Svcs&Supply IQ
+5800 Enterprise Sellers - VAR
+5805 Shopping Foundations
+5810 Platform Admin
+5811 Anti-DDoS
+5812 AWS Support
+5813 Infrastructure Supply Chain & Procurement
+5814 AWS Managed Cloud
+5815 AWS Documentation
+5820 Camera
+5821 Audio & Accessories
+5822 Musical Instruments
+5823 Private Brands - NA Hardlines
+5824 Mobile Electronics
+5825 Office Products
+5826 Physical Software
+5827 Digital Software
+5828 Physical Video Games
+5829 Digital Video Game
+5830 DAGS Admin
+5831 DAGS Special Project
+5832 B2B Selection and Pricing - CE
+5833 Furniture
+5834 DAGS Consumer Marketing
+5835 DAGS Other Marketing
+5845 AWS WWPS Capture, Proposal & Contracts - VAR
+5846 AWS WWPS Technical Vision and BD - VAR
+5847 WWPS Professional Services - VAR
+5848 WWPS Solution Architecture - VAR
+5849 AWS WWPS Business Support - VAR
+5850 AWS Public Sector Sales: APAC - VAR
+5851 AWS Public Sector Sales: EMEA - VAR
+5852 AWS Public Sector Sales: LCC - VAR
+5853 AWS Public Sector Sales: US-CIV - VAR
+5854 AWS Public Sector Sales: US-DOD - VAR
+5855 AWS Public Sector Sales: US-NATSEC - VAR
+5856 AWS Public Sector Sales: US-SLG - VAR
+5857 AWS Public Sector Sales: US-EDU - VAR
+5858 AWS Public Sector Sales: US-NPO - VAR
+5859 AWS Public Sector Sales: Partners - VAR
+5860 AWS Public Sector Sales Lead Development - VAR
+5865 AWS BTS - Fixed
+5866 AWS GCR Fixed
+5867 AWS re:invent
+5868 AWS Brand Advertising
+5878 Try Before You Buy
+5889 Project Jadoo Corp
+5890 Amazon Devices Field Sales - Indirect
+5891 Amazon Pop Ups Field - VAR
+5892 Pop Ups Field Corp
+5894 Blink CS - VAR
+5895 Blink FC - VAR
+5896 Blink Marketing - VAR
+5897 Blink S&M
+5898 Blink Engineering
+5899 T&C - Blink - fix
+5900 IMDb
+5910 IMDb - VAR
+5940 Amazon Game Studios
+5942 Twitch Marketing - Fixed
+5943 Twitch G&A - VAR
+5944 Twitch CS - VAR
+5945 Twitch Sales & Mktg - VAR
+5946 Twitch Tech - Fixed
+5947 Twitch - VAR
+5948 AGS OC Control
+5949 AGS Kiln Studio
+5950 AGS Central Groups
+5952 Lumberyard BD/Sales - VAR
+5953 AGS OC Versus
+5954 AGS OC Campaign
+5955 AGS Sonic
+5956 Curse Tech - Fixed
+5958 Curse G&A - Fixed
+5959 Curse Sales - Fixed
+5960 Twitch Sales - VAR
+6000 European Fulfillment Network (EFN)
+6001 European Fulfillment Network (EFN) (fka 6000)
+6010 Disabled Product Development - Pan Euro
+6011 WW Retail Systems and Hardlines - 6011
+6012 Pan-EU Sourcing (PES)
+6013 EU Category Mgmt
+6014 Intl Private Brands
+6066 IN CE & MI
+6222 Brilliance G&A - Fixed
+6334 Business & Corporate Development
+6335 Amazon Fuse and MBD
+6812 Prime Air - Terminal Ops Field - VAR
+6813 Prime Air - Maintenance Ops Field - VAR
+6814 Prime Air - Development Field
+6815 Prime Air - Manufacturing Field
+6816 Prime Air - Manufacturing
+6817 Prime Air - Terminal Ops Field - Fixed
+6818 Prime Air - Maintenance Ops Field - Fixed
+6878 Softlines UX
+7000 WW Business Transformation
+7001 AR Global Field Services
+7002 Robotics Deployment Engineering
+7003 AR Production
+7004 AR Field Quality & HW Reliability
+7005 AR R&D - Hardware Development
+7006 WW Fulfillment Design & Engineering
+7007 AR R&D - SW Development
+7008 AR Systems & Products
+7009 AR Facilities
+7010 Physical Stores Software Sanjay
+7011 Physical Stores Special Project Korwin
+7012 Amzn Shipping - Business
+7013 WW Engineering - R&D
+7014 Amazon Flex - Corporate
+7015 Physical Stores Software Sridhar
+7016 Physical Stores Research Ameet
+7017 Physical Stores Research Gerard
+7018 HMR Ops - VAR
+7019 AMZL - Secure Delivery
+7020 Global IT Services - Local IT - VAR
+7021 GDPR - Privacy
+7022 Middle Mile Products & Tech (MMPT)
+7023 Sort Svcs and Products(SSP)
+7024 Cross Border Transportation Tech
+7025 Payment Acceptance & Experience Tech
+7026 Amazon Business - Payments
+7027 International Expansion - Tech
+7028 Payment Products - ACC & Maple Tech
+7029 ACC & Maple
+7030 HL Leadership (fka 1030)
+7031 Amazon Business Payments - Tech
+7032 F3 (Fresh, Food, Fast) - fix
+7033 MENA Tech Team
+7034 Robotics CC
+7035 Payment Products 3P - Tech
+7036 Amazon Technical Academy
+7037 Souq Integration Team
+7038 Physical Stores Research Gopi
+7039 Bookstore Field Corp
+7040 Amazon Go - Stores Fixed
+7041 Physical Stores WFM Tech Chad
+7042 Physical Stores Mendel Tech
+7043 Physical Stores Tech - ECO
+7044 Physical Stores Tech G&A
+7045 Phys. Stores Tech - Shrd Svce1
+7046 Physical Stores Tech - JWO
+7047 Physical Stores Tech - Go MP
+7048 Physical Stores Tech - Security
+7049 NA Retail Expansion - Project Storefront
+7050 AWS New Products CC
+7051 SWA Field - VAR
+7052 Spanish Language Site
+7053 NA Retail Expansion - Tech
+7054 Fabric.com T&C CC
+7055 Phys. Stores Tech - Shrd Svce2
+7058 Zappos Tech
+7059 Amazon Key for Business
+7060 Amazon Exports - Tech
+7061 Amazon Expansion - Tech
+7062 Amazon Global Store - Tech
+7063 Global Advertising Partner Development
+7064 Sponsored Products Supply
+7065 Sponsored Products Marketplace
+7066 Performance Advertising Verticals
+7067 Brand Advertising and Shopping Experience (BASE)
+7068 Advertiser Experience
+7069 Performance Advertising Core Engine (PACE)
+7070 Core AI
+7071 ADS Operations Mgmt
+7072 ADS Support
+7073 IN DEX Tech
+7074 Tiberius
+7075 Sarek CC
+7076 Picard CC
+7077 Chekov CC
+7078 Jadzia CC
+7079 Alphabeta
+7080 Sustainability Technology
+7081 Picard_PC
+7082 Troi
+7083 IN Prime Tech
+7084 IN Seller Tech
+7085 IN Category Experience Tech
+7086 IN Retail Experience Tech
+7087 IN Ads Tech
+7088 IN Grocery & Food Tech
+7089 IN Consumer Tech
+7090 IN Misc Tech
+7091 Tech Deployment & Field Support
+7092 IN Prime Now
+7093 IN Prime Food
+7094 IN Prime
+7095 IN Reach
+7096 IN ShopEX
+7097 IN UX
+7098 IN Payments, Experiences Tech
+7099 AWS Telephony - VAR
+7100 Infrastructure Business Operations
+7102 Physical Stores Hardware Sridhar
+7103 AWS Developer Tools - VAR
+7104 IN Payments, Use Cases -Tech
+7105 Health & Wellness - Data Services
+7106 Amazon Go Corp
+7107 Amazon HMR Corp
+7108 Bookstore Corp
+7110 Infrastructure Capacity Delivery
+7111 Techincal Operations
+7112 DEX Robotics
+7113 Hardware - Asia Development Center
+7114 Health CVML
+7115 Int'l Technology Global Core
+7116 Book Depo Tech Support
+7117 Concept Engineering
+7118 Vesta CC
+7119 Jumpstart
+7120 Alexa AI
+7121 Device and Services Design Group
+7122 Tablet Product Software
+7123 Apub
+7124 Hardware - Design Technology
+7125 Hardware - Wireless Connectivity
+7126 Computer Vision Software Products
+7127 Kindle Reader and Design
+7128 Alexa Devices
+7129 eReader Products
+7130 Device Tech Support
+7131 Amazon Education
+7132 Kindle Education - Tech
+7133 Firmware Tech Support
+7134 SW - Supply Chain Technologies
+7135 Content Programs - VAR
+7136 Hardware - Product Development Group
+7137 Alexa Connected Devices
+7138 FireTV Devices Organization
+7139 Goodreads - Tech
+7140 comiXology - Tech
+7141 Hardware - Technology & Architecture
+7142 Audible - Tech
+7143 ZME - Tech
+7144 Amazon Education (Curriculum)
+7145 Alexa ASR
+7146 Alexa Domains - Information
+7147 Alexa Skills Developer Tech
+7148 Alexa Communications
+7149 AC Product Management
+7150 AMZL & Transportation Administration (fka 1150)
+7151 Alexa Domains - Entertainment
+7152 AVS CC
+7153 Alexa Skills Store Tech
+7154 Alexa Gadgets - Fix
+7155 AVS DSE
+7156 Alexa Skills Consumer
+7157 Alexa Skills Developer Marketing
+7158 Device & Services - Mobile
+7159 Alexa Skills COPS Tech
+7160 comiXology-Programs
+7161 Personal Mobility
+7162 Alexa Automotive
+7163 Alexa Device Support
+7164 Alpha - FIX
+7165 POD - Tech
+7166 Incident Management
+7167 Devices - Digital Initiatives
+7168 IN Machine Learning
+7169 Alexa Personal Mobility
+7170 DBS Migration as a Service
+7171 EC2 Core Product Management
+7172 AWS Starfruit
+7173 Winston Wolfe
+7174 Techn. Academy Program Office
+7175 Picard - VAR
+7177 Last Mile Technology (fka 1177)
+7178 Last Mile Planning
+7179 Last Mile Provider System
+7180 Last Mile Execution
+7181 Alexa IDO Support
+7182 Alexa Domains
+7183 Alexa Orchestration Engine
+7184 Alexa Identity Services
+7185 Alexa AI - Natural Language Understanding
+7186 Alexa AI - Machine Learning Platform Services
+7187 Alexa Management
+7188 Alexa International
+7189 Smart Properties
+7190 Alexa Domains - Search
+7191 AR Fulfillment Center Systems Management
+7192 Trans and Recipient UX (TRX)
+7193 Alexa News
+7194 Alexa Personality
+7195 SW - ACE
+7196 Denali Tech Support - VAR
+7197 Alexa TTS
+7198 Alexa Edge ML
+7199 Access Point Technology
+7200 Other Hardlines Innovation
+7201 Infra Ops Central Ops - VAR
+7202 HVA CC
+7203 Kindle International Expansion
+7204 Private Certificate Authority
+7205 B2b Selection and Pricing - OHL
+7206 Alexa Health
+7207 Global Vendor Management (fka 5307)
+7210 HMT
+7211 Physical Stores Tech - Clayton MP
+7212 Consumables Supply Chain
+7213 HPC CC
+7214 PCA CC
+7215 Beauty CC
+7216 EEA
+7218 Instock Management - Food (fka 2218)
+7219 Instock Management - Baby (fka 2219)
+7220 Entertainment CC (fka 2220)
+7221 Control Buying - VG (fka 2221)
+7222 Control Buying - Shoes (fka 2222)
+7223 AR Information Technology
+7224 Control Buying - SW (fka 2224)
+7225 Special Merchants Int. - JVRC (fka 5125)
+7227 KC Project Gouda
+7228 BISS/B2B Project Team (fka 2228)
+7230 Control Buying - Apparel (fka 2230)
+7231 Robotics Program
+7235 KC Falkor
+7238 Control Buying - Tools (fka 2238)
+7239 Category Management - Outdoors
+7240 Control Buying - CE (fka 2240)
+7241 EC2 Enterprise
+7242 Launchpad
+7243 Control Buying - Jewelry (fka 2243)
+7244 One CE
+7245 Wine & Spirits (fka 2245)
+7250 Books/Magazines (fka 2500)
+7261 B2B Marketplace - Fixed (fka 5761)
+7262 ABI 3P Fixed
+7263 AWS Secrets Manager
+7271 PillPack HR
+7272 PillPack Sales & Marketing
+7273 PillPack Technology
+7274 PillPack G&A
+7275 PillPack Ops - VAR
+7276 PillPack - Operations Fixed
+7277 PillPack - CS - VAR
+7278 PillPack - Clinical Services - VAR
+7279 PillPack - Insurance & Transaction Mgmt - VAR
+7280 PillPack - Inside Sales - VAR
+7281 PillPack Ops Field Fixed
+7286 Alexa Security
+7287 ADS Product and Tech
+7288 ML Center/Privacy
+7289 Distributed Machine Learning (DML)
+7290 Machine Learning Data Platform (MLDP)
+7292 AWS Cryptography
+7293 HPC and Platform Optimization - fix
+7294 DBAA Consoles
+7295 Thinkbox
+7296 Compute Launch Services
+7297 Containers and Linux - fix
+7298 EC2 KaOS
+7299 EC2 Core Platform
+7300 CloudFront
+7301 S3
+7302 Mturk
+7303 EC2
+7304 DBS Leadership
+7305 Disabled Amazon Earner Services
+7306 Payments Business Ops
+7307 EPS - Mobile
+7308 Amazon Pay - TPM/CX
+7309 Compliance Tech Fixed
+7310 DBS EMR
+7311 CloudFront Infrastructure
+7312 AWS Premium Support - VAR
+7314 AWS Managed Cloud - VAR
+7315 Amazon Pay - Trust
+7316 Snowball CC
+7317 Transactional Services
+7318 Compute Application Services
+7319 AWS Enterprise Support - VAR
+7320 Payment Products - Tech
+7321 EC2 Fleet and Capacity
+7322 EPS - Engineering - Buyer
+7323 Promotion Services
+7324 Shipping Platform
+7325 AWS MVP Support - VAR
+7326 L7 Load Balancing CC
+7327 AWS Quality Assurance - VAR
+7328 EPS - TPM/CX
+7329 Imaging Technology
+7330 Glacier
+7331 EC2 Networking
+7332 WorkSpaces CC
+7333 AWS Windows Business
+7334 SSPA Insights and Analytics
+7335 Devices Advertising - Fixed
+7336 Advertising Eng & Dev
+7337 DBS Redshift
+7338 AWS Elastic Beanstalk
+7339 Video Shopping Experience
+7340 Placements & Supply - Fixed
+7341 IPT Ads Acct Mgmt - VAR
+7342 Performance Advertising Demand Generation
+7343 Ad EAS Sales - VAR
+7344 Advertising Sales Specialists - VAR
+7345 Product Adv Operations - VAR
+7346 CCS Campaign & Creative Mgmt - VAR
+7347 CCS Design - VAR
+7348 IPT Acct Mgmt - VAR
+7349 Ad Operations - VAR
+7350 AWS Directory Service
+7351 AWS Cryptography - VAR
+7352 AWS IoT
+7353 Data Transfer
+7354 Global Accelerator
+7355 AWS DNS
+7356 AWS ElastiCache CC
+7357 Annapurna G&A
+7358 Annapurna Sales - VAR
+7359 AWS UX
+7360 Amazon Home Services - Fixed
+7361 Amazon Live
+7362 Localization (fka 4341) - VAR
+7363 AWS Elemental Operations - VAR
+7364 AWS Elemental R&D
+7365 AWS Elemental G&A
+7366 Elemental Sales - Fixed
+7367 EC2 VPC Dataplane
+7368 Display Advertising - Fixed
+7369 Self Service Ads Sales and Marketing - VAR
+7370 Network Load Balancing - VAR
+7371 AWS Elemental Marketing - Fixed
+7372 AWS Elemental Customer Success - Fixed
+7373 AWS Elemental Tech Marketing
+7374 IMDb TV
+7375 Amazon Registry Services (fka 4375)
+7376 Amazon Timestream
+7377 Amazon Neptune
+7378 Polly CC
+7379 Amazon DocumentDB
+7380 Amazon Experts - Fixed
+7381 AppStream CC
+7382 WorkDocs CC
+7383 Workmail CC
+7384 Amazon Chime CC
+7385 Alexa for Business
+7386 WorkLink CC
+7387 AWS Apps Admin
+7388 Amazon Display Advertising
+7389 Video Advertising - Marketing - VAR
+7390 Builder Tools
+7391 AWS Code Suite
+7392 AWS Business Systems
+7393 DBS Outbound & Customer Programs
+7394 Aurora PostgreSQL, RDS PostgreSQL
+7395 AWS Systems Manager
+7396 AWS OpsWorks
+7397 AWS CloudTrail
+7398 AWS X-Ray
+7399 AWS SDKs and Tools
+7400 AWS Enterprise Networking
+7401 Payment Operations
+7402 Payments Services
+7403 Enterprise Engineering
+7404 Global IT
+7405 CAST
+7406 Amazon Register Tech
+7407 Corporate GC Tech 7407
+7408 Audio Visual Services
+7409 Tech Infrastructure services
+7410 Network - Core
+7411 Hardware Engineering - VAR
+7412 Infrastructure Leadership
+7413 Acquisition & Construction of Data Centers - VAR
+7414 Logistics - VAR
+7415 Infrastructure Supply Chain Automation
+7416 Environmental, Health and Safety - VAR
+7417 Data Center Capex Other
+7419 Amazon Registrar
+7420 AWS Demand Planning
+7421 AWS Cloud9
+7422 Network DX
+7423 C3Tech
+7424 DevTools Admin
+7425 Infrastructure Engineering
+7426 Remote IT - Allocated
+7427 RDS Operational Engineering
+7428 Digital Payments & Emerging Markets - Fixed
+7429 Managed Blockchain
+7430 Learning Machines
+7431 Amazon Quantum Ledger Database
+7432 HW Asia Center
+7433 ML Solutions Lab - VAR
+7434 AWS Public Sector Sales: Fed Partners - VAR
+7435 Cloudwatch
+7436 CloudEndure
+7437 New ML Service 2
+7438 AWS Server Capital
+7439 Ad Account Mgmt Premium - VAR
+7440 Legacy CDO Server Capital
+7441 Server Non-Standard Capital Equipment
+7442 Technical Risk Reduction
+7443 Cloud HSM
+7444 AWS Commerce Platform
+7445 NSI - VAR
+7446 Key Management Service
+7447 InfraOps AG - VAR
+7448 New ML Service 3
+7449 Ramses
+7450 AWS CloudFormation
+7451 Hardware Engineering
+7452 Real Estate Acquisition & Development
+7453 Data Center Capital
+7454 Data Center Operations (DCO) - VAR
+7455 AWS Kinesis
+7456 Data Center Global Services - VAR
+7457 AWS Technical Operations Services (TOS) - VAR
+7458 AWS Config
+7459 Network Operations - VAR
+7460 Financial Ledger & Accounting Systems (FLASH)
+7461 eCS Management (7461)
+7462 Silicon Optimization
+7463 Bill2Pay
+7464 New Businesses - Fixed
+7465 Infra Physical Security - VAR
+7466 Directed Work
+7467 Infra MVP
+7468 AWS Robotics and Autonomous Svcs
+7469 SAM MVP
+7470 Places & Login with Amazon
+7472 Environmental, Health and Safety - Fixed
+7474 Region Services - VAR
+7477 Consumer GC Tech 7477
+7479 AWS Public Sector Sales: Fed Financials - VAR
+7480 DC Systems
+7481 Outposts - VAR
+7482 EC2 Nitro
+7483 AWS Data Lab - VAR
+7484 AWS Security (SecOps) - VAR
+7485 Region Services MVP
+7486 AWS MP MVP
+7487 AWS Cognito
+7488 MP Product Types
+7489 AWS Marketplace New Initiative
+7490 MP Catalog Services
+7491 MP Pricing Types
+7492 MP Seller Services
+7493 Aurora Storage
+7494 MP Engineering
+7495 IoT Foundry + Amazon FreeRTOS
+7496 IoT ODE
+7497 IoT DPP team
+7500 Information Security
+7501 Trade Books (fka 2501)
+7502 Textbooks (fka 2502)
+7503 Prime
+7504 Amazon Lending Services (fka 5504)
+7505 IoT Greengrass
+7506 EU CX
+7507 Global IT Dev
+7508 Metro Fiber
+7509 Habanero CC
+7510 CloudTune
+7511 Elixir
+7514 Localization (fka 4514)
+7516 AWS Cryptography - MVP
+7517 AWS DNS - MVP
+7518 Automated Reasoning Group
+7519 Pyxis - MVP
+7520 Music - Content and Vendor Mgmt (fka 2520)
+7522 Major Appliances Team
+7523 Quidsi Content CC
+7524 Catalog services (fka 2524)
+7525 Retail Operations & Initiatives (fka 2525)
+7526 Amazon Lending Management (fka 5524)
+7527 Amazon Lending Invoicing
+7528 AWS Messaging - SNS
+7529 AWS Events and Brokers - EventBridge
+7530 AWS Workflow - Step Functions
+7531 ESS - Bootstrap
+7532 Jigsaw
+7535 CS Tech Mgmt (fka 1535)
+7557 Safety Engineering
+7558 TSO Logic
+7559 AWS Benchmarking
+7561 Intl 3P B2B-Fixed
+7566 AWS Serverless MVP Ops
+7600 WFM Tech
+7605 IN Advertising - Fixed
+7606 IN Advertising - VAR
+7608 Sizmek Product & Engineering
+7609 Sarek - VAR
+7614 AWS Messaging CC
+7615 AWS Workflow
+7616 AWS Auto Scaling CC
+7619 Lablets
+7620 AI Labs
+7621 AWS Security - MVP
+7622 AWS Digital User Engagement - SES
+7623 AWS Mobile Applications - SDK
+7624 Underserved Populations
+7625 Platform Development (fka 5625)
+7626 Seller Services Tech
+7627 IN Payments Tech
+7628 New ML Service
+7629 AWS Events and Brokers
+7634 Amazon Tickets Fixed Tech
+7639 AWS Security - AppSec
+7640 AWS Security - Audit Services
+7650 AWS Serverless APIGateway
+7653 Annapurna G&A (fka 7357)
+7654 Silicon Optimization (fka 7462)
+7655 Australia Team
+7661 AWS VPN
+7662 Catalog Services 7662
+7663 SCOT
+7664 Elastic File System
+7665 Storage Gateway
+7667 ESS-GuardDuty
+7670 AWS Workplace Strategy - fix
+7680 DV US Core Tech
+7681 DV Core Platform Tech WW
+7682 DV Mobile & Web Tech WW
+7683 DV Tech EU
+7684 DV Core Tech EU
+7685 AWS Control Tower
+7697 T&C - eCFT Developer Productivity - fix
+7698 T&C - eCFT Storage - fix
+7699 ESS-Macie
+7700 Disabled - Information Security - Other
+7701 Data Center Engineering Operations (DCEO)
+7702 D2AS Technology
+7703 Acquisition & Construction of Data Centers - Fixed
+7704 Data Center Design Engineering
+7705 Infrastructure Performance Services - Fixed
+7706 AWS Insights
+7707 GC Central
+7708 Zimm
+7709 Amazon Global Selling - Tech
+7710 Infrastructure Capacity Supply
+7711 FBA Technical
+7712 Alexa Internet
+7713 Ordering
+7714 AWS Messaging, Workflow & Auto Scaling Mngt
+7716 Application Integration - New Initiatives
+7717 Disabled Builder Tools Old
+7718 Associates Technology
+7719 Personalization
+7720 Amazon Fulfillment Technologies
+7721 Quality, Deployment & Support Svcs
+7722 SCOT - Optimal Sourcing Systems
+7723 Items and Offers Platform
+7724 Catalog Support and Operations Fixed
+7725 Elastic Block Store
+7726 CS Applications
+7727 Identity Services
+7728 Distributed Computing Services
+7729 Data Center Global Services
+7730 Distributed Systems Engineering
+7731 Global Financial Applications
+7732 FinTech
+7733 Enterprise Target - Fixed
+7734 Amazon Restaurants Tech - fix
+7735 Point of Sale Services
+7736 AWS Management
+7737 eCFT Company Wide Initiatives
+7738 GDS - Modeling and Optimization
+7739 Core Trans Technology
+7740 Website Assembly Technologies
+7741 eCF Management (7741)
+7742 Business Operations - VAR
+7743 Consumer Cloud Security
+7744 Amazon Mobile Engineering
+7745 EC2 Ops
+7746 Infrastructure Capacity Delivery - VAR
+7747 VR Shopping
+7748 Consumer Cloud Enablement
+7749 Buying Experience
+7750 Selling Partner Financial Technology
+7751 Data Center Operations (DCO)
+7752 Search Customer Experience
+7753 Operational Excellence
+7754 Display Ads CST - Fixed
+7755 Customer Behavior
+7756 Reverse logistics and product compliance software systems
+7757 SC Execution Tech
+7758 AWS Security
+7759 Data Center Engineering - VAR
+7760 Data Center Engineering Operations (DCEO) - VAR
+7761 eCommerce Operational Excellence (eCO-X)
+7763 Prime Tech
+7764 Silk
+7765 AWS DynamoDB
+7766 Storage, Automation, and Messaging
+7767 Automated Advertising-Social Ads
+7768 Browse
+7769 AWS Marketplace
+7770 DBS Quicksight
+7771 AWS - Administration
+7772 AIM
+7773 Consumer Engagement
+7774 AWS Commercial Sales - Fixed
+7775 Customer Behavior Analytics
+7777 CSE Leadership
+7778 Tax Platform Services
+7779 Automated Advertising-Search
+7780 S9 - Fixed
+7781 Automated Advertising
+7782 AWS Identity
+7783 AWS Payments & Fraud
+7784 AWS Billing
+7785 AWS Business Support
+7786 Route 53
+7787 AWS Elemental Operations - Fixed
+7788 Migration Services
+7789 EC2 Load Balancing
+7790 RDS Platform
+7791 Search Science and AI
+7792 A9 UI
+7793 Visual Search & AR
+7794 Advertising Technology
+7795 Search Engine Technologies
+7796 Askville
+7797 Search Services
+7798 Associates Eng & Dev
+7799 Warehouse Deals & Liquidations
+7800 Pricing Systems
+7801 Amazon Devices - Direct Sales Tech
+7802 Hardware - Operational Excellence
+7803 DV Core Platform Tech & X-Ray
+7804 Music - Digital Tech
+7805 Digital Services - Tech
+7806 SW - Device OS
+7807 Online Digital Text Engineering
+7808 AGS Central Tech
+7809 Shopbop - Technology (7809)
+7810 Books Tech
+7811 Technology - Catalog Operations
+7812 Prime Air - Development
+7813 FMA
+7814 Promotions CC
+7815 Seller Pricing & Shared Services
+7816 Vendor Experience
+7817 Technology - Customer Buying Intelligence - Global
+7818 Technology - China Development
+7819 Customer Journey
+7820 Amazon Devices - Planning
+7821 Business Data Technologies
+7822 Product Aggregator and TCS
+7823 eCS Management (7823)
+7824 Consumer Website Services
+7825 Technology - DVD Rental
+7826 F3 Shopping Experience
+7827 DAGS Tech
+7828 Baijiu Content
+7829 SW - Device Services & Operations
+7830 Digital Commerce
+7831 KC Publisher Exp & Yellow Jersey
+7832 Royalties/Payments
+7833 Kindle Edu/Ent Support
+7834 SW - Device Sales & Offline Technologies
+7835 Amazon Device Products - Tahoe
+7837 Content experience and Quality - Tech
+7838 Community Shopping
+7839 COMET
+7840 Tech - Amazon Wireless
+7841 Delivery Experience - Tech
+7842 Parent Experience
+7843 Coupons
+7844 Replenishment Services
+7845 Disabled Music - Content & Community Tech
+7846 Amazon Photos
+7847 DV Prime Video Movies - Tech
+7849 AWS Public Sector Sales - VAR
+7850 Pricing Research & RSML
+7852 RBS - Tech
+7853 Brand Merchandise & Content
+7854 DAGS Coins & 3P
+7855 DAGS COPS Tech
+7856 Product & Service Discovery
+7857 Digital SW/VG Platform
+7858 Social Game Services
+7859 GameLift - Fixed
+7860 AGS SD
+7861 AppStream
+7862 Trade-In
+7863 DBS MVP DevOps
+7864 AWS Data Warehouse
+7865 Amazon Development Center - Digital
+7866 Studios Product Development
+7867 AGS 2P Games
+7868 Lumberyard Engine - Fixed
+7869 Consumables - Technology
+7870 Cloud Services - VAR
+7871 Rentals by Amazon RBA
+7872 Consumables CX - Tech
+7873 Project Whisp
+7874 Twitch Prime CC
+7875 Alexa Shopping - Tech
+7876 Supplier Fulfillment Services
+7878 T&C - Softlines Discovery - fix
+7879 AWS Digital User Engagement - Pinpoint
+7880 Kindle Support
+7881 DAGS Moments
+7882 AWS Security - VAR
+7883 Legal AWS (7883) - VAR
+7884 Simple Compute
+7885 AWS Serverless Applications
+7886 Infrastructure Capacity Supply - VAR
+7887 Snowball Capital
+7888 Other Server Capital
+7889 DBS DataPipeline, Glue
+7890 AWS DBAs
+7891 Region Services
+7892 Aurora, MySQL, and Maria DB
+7893 AWS Mobile Applications
+7895 AWS Deep Learning
+7896 Lumberyard Marketing - Fixed
+7897 Game Studios Marketing Fixed
+7898 Amazon Connect Team
+7899 Vesta Tech Support
+7900 Hardware - Industrial Design
+7901 Hardware - HW Development
+7902 Hardware - Product Integrity
+7903 Firmware
+7904 Hardware - Bellevue HW Development
+7905 Connectivity Solutions Group
+7906 Hardware - Development
+7907 Hardware - Regulatory Certification
+7916 Hardware - Advanced Products
+7917 Lumberyard BD/Support - VAR
+7919 AI Platforms
+7920 DV Core Tech WW
+7921 DV Catalog Tech WW
+7922 SW - Digital Security
+7923 DV Core Tech UK
+7924 DV Core Tech US
+7925 DV Live Events - Tech
+7926 DV Personalization Tech WW
+7927 DV Core Tech ROW
+7928 DV EU Tech
+7929 AWS Non-Relational Support & SDB
+7930 DV Prime Video TV - Tech
+7931 DV Prime Video Kids - Tech
+7932 Rekognition & Video
+7933 AWS AR/VR
+7934 Athena
+7935 Lex
+7936 Alexa Deep Learning
+7937 Manifold - Fixed
+7938 DISABLED - Palomar Fixed
+7939 Amazon IQ Fixed
+7944 DBS Managed Commercial Engines
+7945 AWS Console
+7946 GameSparks - Fixed
+7947 Subscribe & Save
+7948 DV Core Product and Design - Tech
+7949 Amazon Comprehend
+7950 Amazon Translate
+7951 Amazon Transcribe
+7952 AWS Deep Engine - Science
+7953 SamurAI
+7954 Ground Station
+7955 IoT Analytics and Applications
+7956 IoT Device Services
+7957 IoT Core
+7958 Listings and Gating
+7959 Ring Operations
+7960 AWS Deep Engine - Engineering
+7961 AI Vertical Services
+7962 AI Ecosystem
+7963 Amazon Live - Tech
+7964 CCS Fixed
+7965 Pyxis
+7966 Ring G&A
+7967 ESS-Shared
+7968 ESS - Security Hub
+7969 ESS-Morocco
+7970 ESS-Inspector
+7971 Big Mac
+7972 EBS Nucleus
+7973 EC2 MVP
+7974 AWS Serverless DataApps
+7975 Ring HW/SW
+7976 Ring Sales & Marketing
+7977 Ring Human Resources
+7978 Display Advertising ADA Program
+7979 Ring Eng
+7980 Ring CV
+7981 Thor
+7982 Ring Fin/Acct
+7983 Ring Marketing - VAR
+7984 Ring FC - VAR
+7985 Ring CS - VAR
+7986 Ring Data Engineering Services
+7987 Project Kuiper
+7988 SoothSayer
+7990 Alexa Shopping Operations
+7991 eero Engineering
+7992 eero Sales & Marketing
+7993 eero Operations
+7994 eero G&A
+7995 Alexa Shopping - Business and Technology
+7996 Amazon's Choice
+8001 Woot G&A
+8002 Woot Finance AP - VAR
+8006 Goodreads G&A
+8013 Book Depo G&A
+8014 Audible - Finance & Accounting
+8015 Shopbop G&A
+8016 AbeBooks G&A
+8017 Zappos Fin&Accounting
+8018 IN Consumer G&A
+8020 Broad-Based Black Economic Empowerment (BBBEE) - VAR
+8050 FBA Product Management
+8051 Stores Fixed - Confidential Business
+8100 Corporate
+8101 Finance Administration
+8102 JIHM 8102
+8103 Physical Stores Finance
+8105 Investor Relations
+8106 DISABLED - JIHM 8106
+8107 Available for use (8107)
+8108 Available for use (8108)
+8109 Physical Stores G&A
+8110 Available for use (8110)
+8111 Available for use (8111)
+8112 Available for use (8112)
+8113 Global Corporate Affairs
+8115 Available for use (8115)
+8116 Available for use (8116)
+8117 JIHM 8117
+8119 Physical Stores Real Estate
+8130 Public Policy - Americas
+8132 Public Policy - Economic Development
+8133 Public Policy - EMEA
+8134 Public Policy - APAC & Japan
+8135 Public Policy - AWS & AWS Economic Development
+8136 FSx
+8137 AWS Cryo
+8150 Legal
+8151 Legal Advertising
+8155 Business Conduct & Ethics
+8156 Legal - Ads & IMDB
+8157 Legal - Studios Support
+8160 Corporate Legal
+8161 IP Operations
+8162 International Consumer Legal
+8163 Intellectual Property Licensing - Legal
+8164 Digital Legal
+8165 AWS Legal
+8166 NA Consumer Legal
+8167 Public Policy
+8168 Legal Diversity Programs
+8169 Litigation Legal
+8170 Payments Legal
+8171 Digital Products Legal
+8172 Physical Stores Legal
+8173 Legal - DDS
+8174 Legal - Content
+8175 Alexa & Other Legal
+8176 Legal - WW Ops
+8177 Corp/Pay/RE - NA Consumer
+8178 Corp/Pay/RE - INTL Consumer
+8179 Corp/Pay/RE - AWS
+8180 Protective Services
+8181 Corp/Pay/RE - DAC
+8182 Corp/Pay/RE - Kindle
+8183 Corp/Pay/RE - Devices-
+8184 IP Ops Legal - AWS
+8185 IP Ops Legal - NA Consumer
+8186 IP Ops Legal - INTL Consumer
+8187 IP Ops Legal - DAC
+8188 IP Ops Legal - Devices
+8189 IP Ops Legal - Kindle
+8190 Litigation - NA Consumer
+8191 Litigation - INTL Consumer
+8192 Litigation - AWS
+8193 Litigation - Kindle
+8194 Litigation - DAC
+8195 Litigation - Devices
+8196 Legal - Video Support
+8197 Legal - Music Support
+8200 Procurement - VAR
+8300 Accounting
+8301 Tax
+8302 Operations Accounting
+8303 Accts Payable - VAR
+8304 Internal Audit
+8305 Corp FP&A
+8306 DAC FP&A and CorpDev Finance
+8307 Payroll - VAR
+8308 FinOps Accounting - VAR
+8309 FinOps
+8310 Ops Finance
+8311 Finance Automation
+8312 CS - Finance
+8314 Device Finance - FP&A/Central
+8315 WW Consumer Insights, Planning & Analysis
+8317 CTPS Finance
+8318 AWS Finance & Global Business Services
+8319 Intl Emerging Finance FP&A
+8320 Consumer Tech Finance
+8321 US Softlines Finance
+8322 US Consumables Finance
+8323 US Media Finance
+8324 Global XCM LEO Finance
+8325 Benchmarking
+8326 Tax - Taskless
+8327 FinOps BP - VAR
+8328 Global Prime Finance
+8329 EU Retail FP&A
+8330 Intl Retail Finance
+8331 AGFS Finance
+8332 US Hardlines Finance
+8333 SPS Finance
+8334 Amazon Payments Finance
+8335 FinOps Projects - VAR
+8336 G&A Finance - VAR
+8337 NA Consumer Finance
+8338 Search Finance
+8339 CE Finance
+8340 Treasury
+8341 Treasury - Global Risk Mgmt & Claims
+8342 Benefits
+8343 Twitch - Fixed - G&A
+8344 Ent. Risk Mgmt & Compliance
+8345 Corporate Development
+8346 Digital Content Finance
+8347 Canada & Mexico Finance
+8348 WW F3 and Go
+8349 Accounting Dev Resources
+8350 EU Shared Accounting
+8351 Accounts Payable - RC - VAR
+8352 Accounts Receivable - RC - VAR
+8353 FinOps ACES - VAR
+8354 FinOps Accounting - RC - VAR
+8355 Special Project
+8356 FinOps Accounting - Viraat - VAR
+8357 Accounts Receivable - Viraat - VAR
+8358 Accounts Payable - Viraat - VAR
+8360 G&A - D1I - Other Programs - fix
+8361 IN Retail Finance
+8362 CN Retail Finance
+8363 JP Retail Finance
+8364 IT ES Retail Finance
+8365 UK Retail Finance
+8366 DE Retail Finance
+8367 FR Retail Finance
+8368 Softlines International Finance
+8369 International Seller Services Finance
+8370 Pan-EU Finance
+8371 Ent. Risk Mgmt & Compliance - VAR
+8372 FinOps FP&A
+8373 Benchmarking Capabilities Team (BCT)
+8374 Picard G&A - Fixed
+8375 AWS Infra DC Finance
+8377 PillPack Finance
+8380 G&A - D1I - Workers Comp Program - fix
+8381 G&A - D1I - Workers Comp Program Offset - fix
+8382 Tax - AWS
+8383 G&A - Alexa Shopping Finance - fix
+8385 Benchmarking - Cont. Delivery
+8390 Benchmarking Consumer
+8391 Benchmarking - NA Consumer
+8392 Benchmarking - INTL Consumer
+8393 Benchmarking - AWS
+8394 Benchmarking - DAC
+8395 Benchmarking - Devices
+8396 Advertising Finance
+8397 Digital Music Finance
+8398 Digital Video Finance
+8400 Benchmarking - Allocations Offset
+8403 Tax - EU
+8404 Tax - IN
+8405 Tax - CN
+8406 Tax - NA Consumer
+8407 Tax - Intl Consumer
+8408 Tax - Device
+8409 Tax - Digital
+8410 FinOps - AR AWS - VAR
+8411 FinOps - AR CDO - VAR
+8412 Human Resources Finance
+8413 G&A - Tax - Global Scale - fix
+8414 Accounting - AWS
+8415 Accounting - Device
+8416 Accounting - DAC
+8417 Accounting - Intl Consumer
+8418 Accounting - NA Consumer
+8420 FinOps - NA Consumer - VAR
+8421 FinOps - INTL Consumer - VAR
+8422 FinOps - AWS - VAR
+8423 FinOps - DAC - VAR
+8424 FinOps - Devices - VAR
+8425 FinOps - Allocations Offset - VAR
+8430 Device Finance - Lab126
+8431 Device Finance - Alexa/Products/Intl
+8432 Device Finance - FireTV/DAGS
+8433 Device Finance - Comms/Mobile/H&W
+8440 Project Sphinx
+8452 Sizmek G&A
+8453 Sizmek G&A - HR
+8460 CloudTail Tech
+8461 Appario Tech
+8500 HR Devices
+8550 Audible - Legal
+8600 HR4HR
+8601 HR Administration
+8602 Recruiting - Physical Stores
+8603 HR Connections
+8604 HR Ops Connections
+8605 Compensation
+8606 Emp Svcs - HR Services
+8607 Employee Resource Center
+8608 HR Line Central
+8610 HR Customer Service
+8615 Workday Support
+8619 HR Recruiting Tech
+8620 PeopleTech
+8621 HR Connections Tech
+8622 HR GTM Tech
+8623 HR Hourly Associates Tech
+8624 ICC Regional HR
+8625 Consumer Line HR
+8630 HR Leadership Development
+8640 Glob. Talent Mgmt & Org Dev.
+8641 Glob. Talent Mgmt - Programs
+8642 Talent Movement
+8643 Talent Assessment
+8644 Senior Science & Design Recruiting
+8645 Principal Engineer Recruiting
+8650 Recruiting Services
+8651 Student Programs
+8652 Employee Services
+8653 Executive Recruiting
+8654 Diversity Programs
+8655 HR - GEMA
+8656 Recruiting - HR
+8657 HR - BizDev, Advertising, Ent.
+8658 TA - Advertising, BizDev, Ent.
+8659 Consumer TA
+8660 HR Operations
+8661 Book Depository CS Fixed
+8662 HR - WW Advertising
+8663 Recruiting - WW Advertising
+8664 HR - BDAE COE
+8667 Emp Svcs - Accommodation VAR
+8668 Emp Svcs - Emp Experience VAR
+8669 Emp Svcs - Hr Time, Pay VAR
+8670 Consumer COE HR
+8671 Emp Svcs - Hr Services VAR
+8672 HR Devices COE
+8673 Recruiting - Devices
+8674 Recruiting - Devices HVH
+8676 Emp Svcs - Technology VAR
+8677 Emp Svcs - Dis-LOA Svcs VAR
+8678 Emp Svcs - ERC VAR
+8679 HR - Physical Stores
+8680 HR - AWS
+8681 HR - Finance, Legal, GCA
+8682 Recruiting - AWS
+8683 Central Corp HR
+8684 Recruiting - Finance
+8685 Recruiting - Legal
+8686 HR AWS COE
+8687 Recruiting Services - VAR
+8688 Eligibility to Work - VAR
+8689 Lifecycle Operations - VAR
+8700 Facilities Administration
+8705 Office Management
+8710 Regional Facilities
+8715 Security
+8720 Ops Real Estate
+8725 Corporate Facility Vendor Heads
+8730 FinOps - NA Consumer - Fixed
+8731 FinOps - INTL Consumer - Fixed
+8732 FinOps - AWS - Fixed
+8733 FinOps - DAC - Fixed
+8734 FinOps - Device - Fixed
+8735 FinOps - Allocations Offset - Fixed
+8800 G&A - International Retail
+8801 Consumer G&A
+8802 Central Econ
+8803 Central Econ CC
+8804 NA Consumer G&A
+8805 Physical Consumer CC
+8810 Global AR - VAR
+8811 FinOps PMO - VAR
+8812 Souq Finance
+8850 WFM G&A
+8851 WFM Seattle G&A
+8853 Ops HR - Management Recruiting Support
+8883 Legal AWS - VAR
+8884 AWS - Legal Infra- Var
+8888 Finance Technology
+8889 FinTech - AWS
+8890 FinTech - NA Consumer
+8891 FinTech - INTL Consumer
+8892 FinTech - DAC
+8893 FinTech - Devices
+8894 FinTech - Allocations Offset
+8910 Amazon Photos Marketing - VAR
+8911 Amazon Photos Fixed Marketing
+8920 Shopbop HR
+8998 Technology & Content - Legal (fka 7998)
+CNV Conversion Dept:MISSING DATA
+FHFC Finance Hedge - FIX
+FHVC Finance Hedge - VAR
+HSFI Stores and F3 Hedge - Fixed
+HSVA Stores and F3 Hedge - VAR
